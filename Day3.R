@@ -3,4 +3,6 @@
 #save initial project
 #import libraries
 library(dplyr)
-library(ggplot)
+library(ggplot2)
+#import data
+
